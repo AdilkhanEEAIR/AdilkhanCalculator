@@ -1,0 +1,39 @@
+1) Welcome to the Calculator!
+Enter an arithmetic expression: 2+2*2
+Result: 6.0
+Do you want to continue? (y/n): y
+Enter an arithmetic expression: power(2,6)
+Result: 64.0
+Do you want to continue? (y/n): y
+Enter an arithmetic expression: sqrt(16)
+Result: 4.0
+Do you want to continue? (y/n): n
+Thank you for using the Calculator!
+
+
+2) Welcome to the Calculator!
+Enter an arithmetic expression: 10 - 5/5 +2
+Result: 11.0
+Do you want to continue? (y/n): y
+Enter an arithmetic expression: 5%3
+Result: 2.0
+Do you want to continue? (y/n): y
+Enter an arithmetic expression: round(2.7)
+Result: 3.0
+Do you want to continue? (y/n): y
+Enter an arithmetic expression: abs(-10)
+Result: 10.0
+Do you want to continue? (y/n): n
+Thank you for using the Calculator!
+
+3) Welcome to the Calculator!
+Enter an arithmetic expression: abs(-10) + sqrt(16) - round(2.3)
+Result: 12.0
+Do you want to continue? (y/n): y
+Enter an arithmetic expression: power(5,2) + power(3,3)
+Result: 52.0
+Do you want to continue? (y/n): y
+Enter an arithmetic expression: power(4,0.5)
+Result: 2.0
+Do you want to continue? (y/n): n
+Thank you for using the Calculator!
